@@ -1,0 +1,25 @@
+# Core web framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+Werkzeug==3.0.1
+
+# Database - Using psycopg3 with binary support
+psycopg[binary]==3.2.7
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# AI/ML
+google-generativeai==0.3.2
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3.post1
+
+# Development
+black==23.11.0
+flake8==6.1.0
+
+# Optional but recommended
+gunicorn==21.2.0  # For production deployment
+

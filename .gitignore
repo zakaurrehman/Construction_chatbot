@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env vars
+.env
+
+# Logs
+logs/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Editor
+.vscode/
+*.swp
